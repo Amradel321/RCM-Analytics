@@ -1,0 +1,10 @@
+carc_code,description,denial_category
+CO-16,Claim lacks information needed for adjudication,Missing Information
+CO-27,Expenses incurred after coverage terminated,Eligibility
+CO-22,Care may be covered by another payer (COB),Eligibility
+CO-29,Time limit for filing has expired,Timely Filing
+CO-50,Not deemed a medical necessity by the payer,Medical Necessity
+CO-197,Precertification/authorization absent,Authorization
+CO-4,Procedure code inconsistent with modifier,Coding
+CO-97,Payment included in allowance for another service,Coding
+CO-11,Diagnosis inconsistent with procedure,Coding

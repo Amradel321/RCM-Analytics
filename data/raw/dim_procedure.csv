@@ -1,0 +1,17 @@
+procedure_key,cpt_code,description,base_charge,requires_prior_auth
+1,99213,"Office visit, established, low-moderate",135,0
+2,99214,"Office visit, established, moderate-high",195,0
+3,99203,"Office visit, new patient, low",190,0
+4,99204,"Office visit, new patient, moderate",290,0
+5,99395,"Preventive visit, established, 18-39",220,0
+6,93000,"Electrocardiogram, complete",65,0
+7,80053,Comprehensive metabolic panel,40,0
+8,85025,Complete blood count with differential,30,0
+9,36415,Venipuncture,15,0
+10,71046,"Chest X-ray, 2 views",110,0
+11,73721,MRI lower extremity joint without contrast,1200,1
+12,97110,"Therapeutic exercise, 15 min",95,1
+13,20610,"Arthrocentesis, major joint",210,0
+14,11102,"Skin biopsy, single lesion",260,0
+15,45378,"Colonoscopy, diagnostic",1400,0
+16,90471,Immunization administration,45,0

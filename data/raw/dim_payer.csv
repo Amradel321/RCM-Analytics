@@ -1,0 +1,8 @@
+payer_key,payer_name,payer_type,timely_filing_days
+1,Medicare,Medicare,365
+2,Medicaid TX,Medicaid,95
+3,Aetna,Commercial,120
+4,Cigna,Commercial,180
+5,UnitedHealthcare,Commercial,90
+6,Blue Cross Blue Shield TX,Commercial,180
+7,Humana,Commercial,180
